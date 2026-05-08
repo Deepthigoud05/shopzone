@@ -1,0 +1,2 @@
+I want to protect my Checkout route so only logged-in users can access it. If a guest user tries to open the route directly, they should automatically redirect to the Login page, what can be the best way?
+I encountered an "Invalid Hook Call" error while integrating BrowserRouter and Context Providers in React. Help me identify common causes related to React version mismatch and incorrect hook usage.
